@@ -1,0 +1,7 @@
+{
+  "option" : ["cnc",
+    "laser"
+  ],
+  "client" : ["nom", "prenom", "rfid", "acc_cnc", "acc_laser"]
+
+}
